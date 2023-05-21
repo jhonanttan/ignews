@@ -9,8 +9,19 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "faunadb": "^4.8.0",
     "next": "13.4.2",
+    "next-auth": "3.4.1",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-icons": "^4.8.0",
+    "sass": "^1.62.1",
+    "stripe": "^12.5.0"
+  },
+  "devDependencies": {
+    "@types/next-auth": "3.4.0",
+    "@types/node": "^20.1.7",
+    "@types/react": "^18.2.6",
+    "typescript": "^5.0.4"
   }
 }
